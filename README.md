@@ -1,5 +1,5 @@
 # Marioplan
-A simple project management modern web application built using React, Redux and Firebase. Firebase Authentication, cloud firestore(NoSQL database) and cloud functions(cloud functions are single-purpose JavaScript functions that are executed in a secure, managed Node.js environment on google firebase) were used as backend services. 
+A simple project management modern web application built using React, Redux and Firebase. Firebase Authentication, Firebase Cloud Firestore(NoSQL database) and Firebase Cloud Functions(Cloud Functions are single-purpose JavaScript functions that are executed in a secure, managed Node.js environment on google firebase) were used as backend services. 
 
 ### https://sirjansingh310-marioplan.firebaseapp.com/
 
